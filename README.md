@@ -1,5 +1,5 @@
 # 2024-IV
-Segundo trimestre de Análisis y Desarrollo de Software}
+Segundo trimestre de Análisis y Desarrollo de Software
 
 Servicio Nacional de Aprendizaje - SENA Regional Atlántico
 Centro Nacional Colombo Alemán
