@@ -1,0 +1,4 @@
+Hola a todos: estoy escribiendo una linea a través del lenguaje Python, saludos!
+En este mensaje estamos trabajando con el concepto de ArchivosHola a todos: estoy escribiendo una linea a través del lenguaje Python, saludos!
+En este mensaje estamos trabajando con el concepto de Archivos
+Ahora con los conceptos vistos, procedo a trabajar en mi proyecto
